@@ -1,0 +1,85 @@
+body{
+    background-color: #2c3034 !important;
+}
+.contanier{
+    background-color: #2c3034 !important;
+    color: white !important;
+}
+
+#end{
+    margin-left: auto;
+}   
+#button-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10% !important;
+    color: white !important;
+    margin-bottom: 20px !important;
+
+}
+#row-1{
+    width: 20%;
+    margin:auto;
+}
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white !important;
+    
+}
+
+a:hover{
+    color: rgb(76, 76, 76) !important;
+    font-size: 105%;
+    transition: all 0.2 ease-in !important;
+}
+h2,h1,h3{
+    color: white !important ;
+}
+.form-control{
+    background-color: #2c3034!important;
+    color: white !important;
+    
+}
+input{
+    background-color:  #2c3034(0, 0, 0);
+    color: rgb(195, 195, 195) !important;
+}
+input::placeholder{
+    background-color: #2c3034(0, 0, 0);
+    color: rgb(195, 195, 195) !important;
+}
+#del-but{
+    color: red;
+}
+.bg-success{
+    padding: auto;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 12px;
+    width: 50%;
+}
+.bg-danger{
+    padding: auto;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 12px;
+    width: 50%;
+    background-color:rgb(255, 153, 0) !important;
+}
+span{
+    display: inline;
+}
+.btn-dark{
+    height: 37.6px;
+    border: 1.5px white solid ;
+}
+.input-group{
+    margin: auto;
+}
+label{
+    color: white !important;
+}
